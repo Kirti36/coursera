@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Feb  7 00:30:58 2019
 
-@author: Voltas
-"""
 
 import pandas
 import numpy
